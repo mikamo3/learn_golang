@@ -23,3 +23,7 @@ i:=3
 # Interfaces are implemented implicitly
 
 明示的に実装することを宣言しなくていい
+
+# Range and Close
+
+受け手側のチャネルはクローズしないこと
